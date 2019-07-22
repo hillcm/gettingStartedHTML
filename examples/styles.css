@@ -1,0 +1,33 @@
+body{
+    background-color: yellowgreen;
+}
+
+img{
+    width: 100px;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    text-align: center;
+    color:red;
+    text-decoration: line-through;
+}
+
+ul{
+    color: brown;
+}
+
+li{
+    color: purple;
+}
+
+table{
+    color: blueviolet;
+}
+
+form{
+    color: cornflowerblue;
+}
