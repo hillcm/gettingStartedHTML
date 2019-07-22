@@ -31,3 +31,16 @@ table{
 form{
     color: cornflowerblue;
 }
+
+#blockOne{
+    background-color: indigo;
+    width: 300px;
+    border: 5px solid #333;
+    position: absolute;
+}
+
+.daBlocks{
+    background-color: lightsalmon;
+    width: 400px;
+    position: relative;
+}
