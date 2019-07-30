@@ -1,0 +1,23 @@
+body{
+background-color:red;
+    /* font-family: 'Saira Stencil One', cursive; */
+
+}
+#something{
+    color:purple;
+    font-family: 'Saira Stencil One', cursive;
+
+
+  }
+  .strawberries{
+     color: blue;
+
+    font-family: 'Noto Sans KR', sans-serif;
+
+     }
+     img{
+         width: 200px;
+     }
+     li{
+         color:yellow;
+     }
